@@ -6,4 +6,4 @@ RxJava的一些个人笔记，对RxJava知识点的理解和梳理
 
 Android framework重要知识点的梳理笔记
 
-[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/Android系统.png)](./example)
+[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/AndroidSystem.png)](./example)
