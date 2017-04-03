@@ -14,7 +14,7 @@ View绘制流程：
 [Android应用层View绘制流程与源码分析](http://blog.csdn.net/yanbober/article/details/46128379)
 
 事件分发机制：  
-[Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](http://blog.csdn.net/guolin_blog/article/details/9097463)
+[Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](http://blog.csdn.net/guolin_blog/article/details/9097463)   
 [Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
 
 
