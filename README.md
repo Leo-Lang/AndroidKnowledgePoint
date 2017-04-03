@@ -1,13 +1,13 @@
 # Android相关知识点的思维导图
 
-##rxjava.xmind:  
+## rxjava.xmind:  
 RxJava的一些个人笔记，对RxJava知识点的理解和梳理
 
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/RxJava.png)](./example)
 
-##AndroidSystem.xmind:  
+## AndroidSystem.xmind:  
 Android framework重要知识点的梳理笔记   
-###相关好文推荐  
+### 相关好文推荐  
  
 View绘制流程：   
 [Android View的绘制流程](http://www.jianshu.com/p/5a71014e7b1b)  
