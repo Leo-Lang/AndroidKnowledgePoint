@@ -20,5 +20,8 @@ View绘制流程：
 消息循环：  
 [Android应用程序线程消息循环模型分析](http://blog.csdn.net/luoshengyang/article/details/6905587)
 
+Binder:  
+[Binder机制1---Binder原理介绍](http://www.jcodecraeer.com/plus/view.php?aid=2619)
+
 
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/AndroidSystem.png)](./example)
