@@ -17,5 +17,8 @@ View绘制流程：
 [Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](http://blog.csdn.net/guolin_blog/article/details/9097463)   
 [Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
 
+消息循环：  
+[Android应用程序线程消息循环模型分析](http://blog.csdn.net/luoshengyang/article/details/6905587)
+
 
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/AndroidSystem.png)](./example)
