@@ -23,5 +23,8 @@ View绘制流程：
 Binder:  
 [Binder机制1---Binder原理介绍](http://www.jcodecraeer.com/plus/view.php?aid=2619)
 
+Activity管理方式:  y
+[Android四大组件之Activity--管理方式](http://duanqz.github.io/2016-02-01-Activity-Maintenance#section-3)
+
 
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/AndroidSystem.png)](./example)
