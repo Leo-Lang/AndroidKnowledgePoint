@@ -6,7 +6,9 @@ RxJava的一些个人笔记，对RxJava知识点的理解和梳理
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/RxJava.png)](./example)
 
 ## AndroidSystem.xmind:  
-Android framework重要知识点的梳理笔记   
+Android framework重要知识点的梳理笔记 
+
+[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/AndroidSystem.png)](./example)  
 ### 相关好文推荐  
  
 View绘制流程：   
@@ -26,5 +28,11 @@ Binder:
 Activity管理方式:  
 [Android四大组件之Activity--管理方式](http://duanqz.github.io/2016-02-01-Activity-Maintenance#section-3)
 
+## 插件化.xmind
+Android插件化相关知识点梳理
 
-[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/AndroidSystem.png)](./example)
+[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/插件化.png)](./example)
+
+### 相关好文推荐
+[Android插件化原理解析](http://weishu.me/2016/01/28/understand-plugin-framework-overview/)
+
