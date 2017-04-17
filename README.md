@@ -42,5 +42,15 @@ Android插件化相关知识点梳理
 ### 相关好文推荐   
 [聊聊并发（三）——JAVA线程池的分析和使用](http://www.infoq.com/cn/articles/java-threadPool)
 
+## Android应用架构.xmind
+Android应用架构演进以及模式对比（MVP、MVC、MVVM）
+
+[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/Android应用架构.png)](./example)
+
+### 相关好文推荐   
+[浅谈Andorid开发中的MVP模式](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=404577331&idx=1&sn=e92bf72c490d728470378e4ee1953a80&scene=21#wechat_redirect)
+
+[浅谈开发中的MVVM模式及与MVP和MVC的区别](http://www.jianshu.com/p/ffcb84dc4ebc)
+
 
 
