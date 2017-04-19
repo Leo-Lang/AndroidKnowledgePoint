@@ -52,5 +52,10 @@ Android应用架构演进以及模式对比（MVP、MVC、MVVM）
 
 [浅谈开发中的MVVM模式及与MVP和MVC的区别](http://www.jianshu.com/p/ffcb84dc4ebc)
 
+## Android注解.xmind
+注解的入门介绍
 
+[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/Android注解.png)](./example)
 
+### 相关好文推荐  
+[Android进阶之自定义注解](http://www.jianshu.com/p/a13c6326671d)
