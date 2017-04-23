@@ -34,7 +34,9 @@ Android插件化相关知识点梳理
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/插件化.png)](./example)
 
 ### 相关好文推荐
-[Android插件化原理解析系列](http://weishu.me/2016/01/28/understand-plugin-framework-overview/)
+[Android插件化原理解析系列](http://weishu.me/2016/01/28/understand-plugin-framework-overview/)   
+
+[加载SD卡中的SO库](https://zhuanlan.zhihu.com/p/21303038)
 
 ## 线程和进程.xmind
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/线程&进程.png)](./example)
