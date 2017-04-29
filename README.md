@@ -28,6 +28,10 @@ Binder:
 Activity管理方式:  
 [Android四大组件之Activity--管理方式](http://duanqz.github.io/2016-02-01-Activity-Maintenance#section-3)
 
+Android系统启动过程：  
+[Android内核开发：图解Android系统的启动过程](http://ticktick.blog.51cto.com/823160/1659473)
+
+
 ## 插件化.xmind
 Android插件化相关知识点梳理
 
