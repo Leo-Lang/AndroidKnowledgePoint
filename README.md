@@ -31,6 +31,9 @@ Activity管理方式:
 Android系统启动过程：  
 [Android内核开发：图解Android系统的启动过程](http://ticktick.blog.51cto.com/823160/1659473)
 
+WindowManager:  
+[《Android 开发艺术探索》 08-理解Window和WindowManager](http://szysky.com/2016/08/15/%E3%80%8AAndroid-%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E3%80%8B-08-%E7%90%86%E8%A7%A3Window%E5%92%8CWindowManager/)
+
 
 ## 插件化.xmind
 Android插件化相关知识点梳理
