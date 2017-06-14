@@ -80,4 +80,11 @@ Android类加载
 ### 相关好文推荐   
 [Android类加载之PathClassLoader和DexClassLoader](http://www.jianshu.com/p/4b4f1fa6633c)
 
+## Fresco.xmind
 
+[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/Fresco.png)](./example)
+
+### 相关好文推荐
+[Fresco图片框架内部实现原理探索](http://blog.csdn.net/u010687392/article/details/50266633)
+
+[官方文档](https://www.fresco-cn.org/docs/getting-started.html)
