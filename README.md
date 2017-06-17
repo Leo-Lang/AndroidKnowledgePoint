@@ -69,8 +69,15 @@ Android应用架构演进以及模式对比（MVP、MVC、MVVM）
 
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/Android注解.png)](./example)
 
+
 ### 相关好文推荐  
 [Android进阶之自定义注解](http://www.jianshu.com/p/a13c6326671d)
+
+[Android注解实践——打造编译时注解框架](https://pengsongandroid.github.io/2017/04/08/Android%E6%B3%A8%E8%A7%A3%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E6%89%93%E9%80%A0%E7%BC%96%E8%AF%91%E6%97%B6%E6%B3%A8%E8%A7%A3%E6%A1%86%E6%9E%B6/)
+
+[Java注解处理器](https://race604.com/annotation-processing/)
+
+[javapoet——让你从重复无聊的代码中解放出来](http://www.jianshu.com/p/95f12f72f69a)
 
 ## AndroidClassloader.xmind
 Android类加载
