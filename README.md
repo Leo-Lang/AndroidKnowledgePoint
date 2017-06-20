@@ -95,3 +95,11 @@ Android类加载
 [Fresco图片框架内部实现原理探索](http://blog.csdn.net/u010687392/article/details/50266633)
 
 [官方文档](https://www.fresco-cn.org/docs/getting-started.html)
+
+
+## 直播架构
+
+[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/直播架构.png)](./example)
+
+### 相关好文推荐
+[视频直播技术详解系列](https://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652190986&idx=1&sn=564a10b0b6352134148b1397fbaae8fb&scene=21#wechat_redirect)
