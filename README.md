@@ -107,4 +107,5 @@ Android类加载
 ## 网络优化.xmind
 [![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/网络优化.png)](./example)
 
-
+## 虚拟机.xmind
+[![](https://github.com/Leo-Lang/RxJava_xmind/blob/master/虚拟机.png)](./example)
